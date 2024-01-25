@@ -1,0 +1,33 @@
+LISTA DE LAS ETIQUETAS MAS UTILIZADAS
+
+<html>  : Raíz de un documento HTML, engloba todo el contenido de la página. 
+<head>  : contene metadatos/información para el documento, como el titulo y enlaces a scripts y hojas de estilo. 
+<title> : define el titulo del documento, que se muestra en la bara de titulo del navegador o en las pestañas.
+<body>  : representa el contenido principal de un documento HTML, visible para el usuraio. 
+<h1><h2><h3><h4><h5><h6>    : son utilizadas para definir encabezados, sindo <h1> el mas importante y <h6> el menos. 
+<a>     : Define un hipervoinculo a otra página web o recurso.
+<img>   : incrusta una imagen en el documento. 
+<div>   : Define una division o seccion en un documento, generalmente utilizado como contenedor pra diseño o estilzado. 
+<span>  : sirve para agrupar elementos en línea para aplicarles estilos o por razones de script.
+<ul>    : define una lista desordenada (con viñetas)      
+<ol>    : define una lista ordenada (con numeros) 
+<li>    : define in item de lista que debe estar dentro de <ul> o <ol>
+<br>    : Inserta u salto de línea simple
+<table> : Define una tabla
+<tr>    : Define ina fila en una tabla
+<td>    : Define una celda en una tabla. 
+<th>    : Define un acelda de encabezado en un tabla
+<form>  : Define un formulario HTML para la entrada del usuario. 
+<input> : Define el campo de entrada dentro de un formulario. 
+<label> : Define una etiqueta para un elemento <input>
+<button>: define un boton clickeable. 
+<select>: Define un menu desplegable. 
+<option>: define una opcion  dnetro de un <select>. 
+<textarea>: Define un campo de texto multilinea. 
+<link>  : utilizado para enlazar hojas de estilos exernas. 
+<meta>  : Define metadatos que no pueden ser representados por otros elementos HTML.
+<script>: se utiliza para insertar o hacer referencia a un script ejecutable. 
+
+
+
+
