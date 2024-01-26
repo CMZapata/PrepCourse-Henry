@@ -1,0 +1,48 @@
+/* reset.css */
+
+body, h1, h2, h3, p, figure, blockquote, dl, dd, ul, ol, li, pre, form, fieldset, legend, input, button, textarea, select {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  body {
+    line-height: 1;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  button, input, select, textarea {
+    font-family: inherit;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  blockquote, q {
+    quotes: none;
+  }
+  
+  blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+ 

@@ -1,0 +1,82 @@
+body{
+    background-color: aliceblue;
+    color: red;
+}
+
+.title{
+    color: black;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2,1em;
+}
+
+.encabezados{
+    border: 2px solid black;
+    margin: auto;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#tituloprincipal{
+    background-color: crimson;
+    font-size: 40px ;
+    text-align: center;
+}
+
+#titulos{
+    border: 2px solid  black;
+    text-align: center;
+    
+}
+
+#comentarios{
+    text-align: center;
+    color: black;
+    background-color: aquamarine;
+    border: 2px solid black;
+    /*Viewport width*/
+    width: 65vw;
+    margin: auto;
+    padding: 1em;
+}
+
+.logo{
+    width: 90px;
+    height: 100px;
+}
+
+.cards{
+    align-items: center;
+    color: black;
+    border: 2px solid black;
+    width: fit-content;
+    padding: 1em 1em 1em 1em;
+    border-radius: 12%;
+    transition: 1s;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.cards:hover{
+    color: white;
+    background-color: blue;
+}
+
+#cards-conteniner{
+    
+    width: 95vw;
+    margin: auto;
+    margin-top: 1.5em;
+    border: 2px solid black;
+    border-radius: 5%;
+    padding: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    
+  }
+  
